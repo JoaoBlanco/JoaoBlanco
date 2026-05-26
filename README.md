@@ -2,7 +2,7 @@
 
 ### Olá, eu sou o João Blanco 👋 ### 
 
-Cursando 7° Semestre em Ciência da Computação;
+Bacharelado em Ciências da Computação - UNIFAJ;
 
 Cursei SENAI - Criação de Sites e Plataformas Digitais HTML, CSS, JAVASCRIPT;
 
